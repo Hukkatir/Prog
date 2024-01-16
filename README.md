@@ -26,37 +26,37 @@ HTML и CSS - это основы веб-разработки. Изучение 
 
 Повторить макет с изображения. Для установки ширины межстрочного интервала используйте свойство line-height
 
-<img src="task1.png" align="center" />
+<img src="task1.png"/>
 
 ## Задание 2. Публикация для блога
 
 Повторить макет с изображения
 Сгенерировать текст в любом генераторе текста-рыбы, например: https://www.lipsum.com/feed/html
 
-<img src="task2.png" align="center" />
+<img src="task2.png"/>
 
 ## Задание 3. Карточка публикации
 
 Повторить макет с изображения
 
-<img src="task3.png" style="width:400px;height:400px;" align="center" />
+<img src="task3.png" style="width:400px;height:400px;"/>
 
 ## Задание 4. Карточка c тегами
 
-<img src="task4.png" align="center" />
+<img src="task4.png"/>
 
 ## Задание 5. “Простой flexbox”
 
-<img src="task5.png" align="center" />
+<img src="task5.png"/>
 
 ## Задание 6. Карточка About us
 
-<img src="task6.png" align="center" />
+<img src="task6.png"/>
 
 ## Задание 7. Карточка пользователя
 
-<img src="task7.png" align="center" style="width:400px;height:400px;" />
+<img src="task7.png" style="width:430px;height:400px;" />
 
 ## Задание 8. Статья
 
-<img src="task8.png" align="center" style="width:400px;height:500px;" />
+<img src="task8.png" style="width:400px;height:500px;" />
