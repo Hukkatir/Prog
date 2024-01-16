@@ -31,16 +31,15 @@ HTML и CSS - это основы веб-разработки. Изучение 
 ## Задание 2. Публикация для блога
 
 Повторить макет с изображения
+Сгенерировать текст в любом генераторе текста-рыбы, например: https://www.lipsum.com/feed/html
 
 <img src="task2.png" align="center" />
-
-Сгенерировать текст в любом генераторе текста-рыбы, например: https://www.lipsum.com/feed/html
 
 ## Задание 3. Карточка публикации
 
 Повторить макет с изображения
 
-<img src="task3.png" align="center" />
+<img src="task3.png" style="width:400px;height:400px;" align="center" />
 
 ## Задание 4. Карточка c тегами
 
@@ -56,8 +55,8 @@ HTML и CSS - это основы веб-разработки. Изучение 
 
 ## Задание 7. Карточка пользователя
 
-<img src="task7.png" align="center" />
+<img src="task7.png" align="center" style="width:400px;height:400px;" />
 
 ## Задание 8. Статья
 
-<img src="task8.png" align="center" />
+<img src="task8.png" align="center" style="width:400px;height:500px;" />
