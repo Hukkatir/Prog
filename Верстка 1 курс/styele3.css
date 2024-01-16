@@ -1,0 +1,43 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.square {
+    display:block;
+    background-color:rgb(158, 102, 141);
+    width: 450px;
+    height: 450px;
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px; */
+}
+
+
+.title {
+    /* text-align: left; */
+    font-size:45px;
+    padding-top: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.parag {
+    /* text-align: left; */
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: medium;
+    color: rgb(190, 150, 178);
+    padding-bottom: 3px;
+}
+
+.date {
+    color: black;
+    padding-left: 35px;
+    color: rgb(190, 150, 178);
+}
+.more {
+    color: black;
+    padding-left: 190px;
+    /* font-weight:bold; */
+    padding-bottom: 35px;
+}

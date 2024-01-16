@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.body {
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to bottom right, #db9c5c, #e99138);    
+}
+
+.profile {
+    width: 600px;
+    height: 550px;
+    background-color: rgb(4, 42, 255);
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    flex-direction: row;
+    align-items: stretch;
+    box-shadow: 0.4em 0.4em 10px rgba(45, 45, 45, 0.5);
+    flex-wrap: nowrap;
+}

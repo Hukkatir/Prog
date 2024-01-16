@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.flexbox {
+
+    display: flex;
+    width: 312px;
+    height: 120px;
+    border-radius: 24px;
+    background-color: white;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.background {
+    background-color:grey;
+    display: flex;
+    width: 512px;
+    height: 320px;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 24px;
+    
+}
+
+.round {
+    border-radius: 80px;
+    height: 80px; 
+    width: 80px; 
+    padding: 24px;
+}
+
+.info {
+    padding: 24px 24px 24px 0px;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+
+    margin-bottom: -15px;
+    padding-top: 20px;
+    padding-bottom: 2px;
+    font-size: 18px;
+    text-align: left; 
+   
+    
+}
+
+
+.username {
+    color: darkgrey;
+    font-size: 12pt;
+    text-align: left;
+}

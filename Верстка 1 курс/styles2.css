@@ -1,0 +1,49 @@
+font-face {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    /* text-align: left; */
+    /* text-align:left; */
+    /* line-height: 1.2; */
+    /* font-weight: lighter; */
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.headline {
+    font-family: 'Roboto', sans-serif;     
+    font-style: normal;
+	/* font-weight: 500; */
+
+}
+
+.written {
+    font-family: 'Roboto', sans-serif;
+    font-style:normal;
+    margin-top: -15px;
+    /* color: grey; */
+    /* font-size: min */
+}
+.line {
+    margin-top: -7px;
+     color: rgb(126, 119, 119);
+}
+.graytext {
+    color: rgb(126, 119, 119);
+    margin-left: 25px;
+}
+ .blacktext {
+    color:black
+
+ }
+.paragraph {
+    font-family: 'Roboto', sans-serif;     
+    font-style: normal;
+    color: rgb(126, 119, 119);
+    /* height: 16px; */
+    font-size: medium;
+}
